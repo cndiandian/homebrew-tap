@@ -1,6 +1,6 @@
 cask "imgx" do
-  version "0.1.0"
-  sha256 "1ef3a4cbbda69a53d63876dfb1c734a02c9748868a367e84f54c3248a136603d"
+  version "0.1.1"
+  sha256 "ff2817a90ad56157cd2662c2d4c35f718a65c7cc289919f96fb7755eba14f766"
 
   url "https://github.com/cndiandian/IMGX/releases/download/v#{version}/IMGX-v#{version}.dmg"
   name "IMGX"
